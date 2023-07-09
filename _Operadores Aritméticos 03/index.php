@@ -8,7 +8,7 @@
     <body>
     <div class="ex0">
             <h1>Aprendendo PHP</h1>
-            <h2>Variáveis em <span>PHP</span></h2>
+            <h2>Operadores Aritméticos em <span>PHP</span></h2>
         </div>
         <div class="ex1">
             <?php
