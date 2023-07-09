@@ -1,0 +1,28 @@
+body
+{
+    background:  rgb(178, 178, 243);
+}
+
+.ex0
+{
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    color: white;
+}
+
+span
+{
+    color:#dae3e6;
+}
+
+.ex1
+{
+    border: 1px solid #4287f5;
+    box-shadow: 10px 5px 5px #4287f5;
+    width: 900px;
+    height: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background:lavender;
+}
